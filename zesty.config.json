@@ -1,0 +1,14 @@
+{
+  "instance_zuid": "8-92f3c6e5aa-9h1mxl", 
+  "stage": "https://92bvq9q2-dev.webengine.zesty.io/", 
+  "production": "https://examplesyncinstancestyles.zesty.dev/", 
+  "stage_password": "a72590",
+  "src_dir": "", 
+  "options": {
+    "skip_config_overwrite": false,
+    "model_ignore_list": [
+      "6-xyz" 
+    ]
+  },
+  "runinstaller" : true
+}
